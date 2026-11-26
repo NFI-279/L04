@@ -20,3 +20,9 @@ Rules:
 - Suggest the correct fix.
 - Write one report for each bug.
 - Do not add extra text outside the reports.
+
+- Analyze every function individually, from first to last.
+- Check division by zero, empty lists and empty strings.
+- Compare each function's behavior with its docstring.
+- Do not stop after finding the first few bugs.
+- Verify that every function has been analyzed before answering.
